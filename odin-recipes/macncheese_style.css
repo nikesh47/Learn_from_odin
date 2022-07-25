@@ -1,0 +1,35 @@
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    color:brown;
+
+}
+
+h3 {
+    font-size: 20px;
+    color:red;
+    font-style: italic;
+    font-weight: bold;
+
+
+}
+
+
+img {
+    width: auto;
+    height: 400px;
+}
+
+.content {
+    color:brown;
+    width: auto;
+    background-color: blanchedalmond;
+}
+
+
+body{
+    max-width: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+}

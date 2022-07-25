@@ -1,0 +1,41 @@
+
+body{
+   
+    max-width: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+    
+}
+
+h1 {
+    color:rgb(128, 128, 247);
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+h3 {
+    color: rgb(128, 128, 247);
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+
+
+}
+
+img{
+    width:400px;
+    height: auto;
+}
+
+.Desc{
+    background-color: beige;
+    color: rgb(36, 34, 34);
+}
+
+.content {
+    background-color: beige;
+    color: rgb(36, 34, 34);
+    width: auto;
+}
